@@ -1,4 +1,3 @@
-
 🎮 Tic Tac Toe Game (React)
 
 A simple and fun Tic Tac Toe game built using React.js.
@@ -22,4 +21,4 @@ React.js – UI library
 
 Vite / Create React App – build tool
 
-Deploy Link:-https://tic-tac-toe-ypms.vercel.app/
+CSS – styling
